@@ -137,22 +137,12 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: (https://github.com/joyapisi)
 - Twitter: (https://twitter.com/joyapisi)
 - LinkedIn: (https://http://www.linkedin.com/in/joy-phoebe-00b80a13a)
 
-
-👤 **Author2**
- 
-- GitHub:(https://github.com/cindykandie)
-
-
-
-👤 **Author3**
- 
-- GitHub:(https://github.com/joyapisi)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -204,6 +194,6 @@ Node Js can be downloaded here- https://nodejs.org/en/download/
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
